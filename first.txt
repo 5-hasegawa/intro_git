@@ -4,3 +4,4 @@ Gitの練習
 .git commit
 .git rm
 .git status // 変更されたテキストを確認できる
+.git diff // 変更差分の確認
